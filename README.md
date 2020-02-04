@@ -1,7 +1,7 @@
 # ipuresult-cli
 > ipuresult cli is tool for creating json files from pdf result files of [GGSIPU Results](http://ggsipu.ac.in/ExamResults/ExamResultsmain.htm.)
 
-> ipuresult-cli uses core libararies of [ipuresults](http://ipurhttps://ipur.herokuapp.com/) (launched in 2017) to extract results.
+> ipuresult-cli uses core libararies of [ipuresults](https://ipur.herokuapp.com/) (launched in 2017) to extract results.
 
 ## installation
 
