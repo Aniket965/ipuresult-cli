@@ -1,0 +1,24 @@
+{
+  "name": "ipuresult-cli",
+  "version": "1.0.0",
+  "description": "cli for parsing ipu-result pdf and converting into json format",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aniket965/ipuresult-cli.git"
+  },
+  "keywords": [
+    "ipuresult",
+    "pdf",
+    "json"
+  ],
+  "author": "aniket965",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Aniket965/ipuresult-cli/issues"
+  },
+  "homepage": "https://github.com/Aniket965/ipuresult-cli#readme"
+}
