@@ -6,6 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "bin": {
+    "ipresult": "index.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Aniket965/ipuresult-cli.git"
@@ -20,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/Aniket965/ipuresult-cli/issues"
   },
-  "homepage": "https://github.com/Aniket965/ipuresult-cli#readme"
+  "homepage": "https://github.com/Aniket965/ipuresult-cli#readme",
+  "dependencies": {
+    "pdf2json": "^1.1.8"
+  }
 }
